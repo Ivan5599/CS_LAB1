@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ComputerSystemlLab1_2/1.0.0": {
+        "runtime": {
+          "ComputerSystemlLab1_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComputerSystemlLab1_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
